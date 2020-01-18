@@ -1,7 +1,5 @@
 <?php
     include('multiple_array.php');
-
-    // var_dump($students);
 ?>
 <html>
 <head>
