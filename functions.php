@@ -6,9 +6,9 @@
     }
 
     //Get time
-    function getNowTime() {
-        
-        return date('H:i:s'); 
+    function getNowTime() 
+    {
+         return date('H:i:s'); 
     }
 
     // echo getNowTime();
