@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Select</title>
 </head>
+
 <body>
     <form action="backend.php" method="POST">
         <select name="kurs_raqami">

@@ -4,6 +4,7 @@
     $my_file = $_FILES['my_file'];
     $size = $my_file['size']/1024;
     
+    
     $path = 'uploads';
     //uploads/ish.jpg
     $name = uniqid();

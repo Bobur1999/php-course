@@ -4,6 +4,7 @@
     // echo $tests[1]['check'];
     // exit;
     // var_dump($_POST);
+    
     $counter = 0;
 
     $user_answers = $_POST['answer'];

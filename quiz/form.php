@@ -9,6 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
+
 <body>
     <form action="check.php" method="POST">
         <?php foreach ($tests AS $index => $test): ?>

@@ -2,6 +2,7 @@
     <head>
         <title>FORM</title>
     </head>
+    
     <body>
         <form action="backend.php" method="POST">
             <div>
