@@ -10,6 +10,7 @@ $myArray =[
 //     echo $int;    
 //  echo '<br>';
 //  }
+
  foreach($myArray as $array){
      echo $array['First_name']."   Faliliyasi: ".$array['Last_name'];
      echo'<br>';
