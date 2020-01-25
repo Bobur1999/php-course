@@ -13,6 +13,7 @@
         echo 'bvbvbvbvbvbvbvb';
     }
 
+    
     //Binary if
     // $myVar = ($myInt >= 90) ? 'Katta' : 'Kichik';
     

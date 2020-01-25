@@ -18,7 +18,9 @@
     // } while($a > 5);
 
     //Foreach loop example
+
     $myArray = [8, 6, 3, 5];
+    
     // foreach($myArray AS $index => $value) {
     //     echo $index ." == >". $value;
     //     echo '<br>';
