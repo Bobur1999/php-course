@@ -5,11 +5,11 @@
     /**
      * Search in array
      */
-    // $searchedIndex = array_search(13, $myArray);
+    $searchedIndex = array_search(13, $myArray);
     
     // var_dump($myArray);
 
-    // echo $searchedIndex;
+    echo $searchedIndex;
 
     /**
      * Get random index from Array
@@ -23,15 +23,15 @@
      * Array sort function
      * sort(&$pointer)
      */
-    echo "Default:\n";
-    var_dump($myArray);
-    sort($myArray);
-    echo "Sorted:\n";
-    var_dump($myArray);
+    // echo "Default:\n";
+    // var_dump($myArray);
+    // sort($myArray);
+    // echo "Sorted:\n";
+    // var_dump($myArray);
 
-    echo "Reversed:\n";
-    $reversed = array_reverse($myArray);
-    var_dump($reversed);
+    // echo "Reversed:\n";
+    // $reversed = array_reverse($myArray);
+    // var_dump($reversed);
 
     /**
      * Explode string
